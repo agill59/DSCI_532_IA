@@ -2332,19 +2332,7 @@
     }
   },
   "files": {
-    "environment.yml": {
-      "checksum": "32856d2a008fb4e0c91b4e50db02e11c"
-    },
-    "LICENSE": {
-      "checksum": "23789e9ec99091a4d6c305df9cb4e517"
-    },
-    "raw/tech_employment_2000_2025.csv": {
-      "checksum": "aff841fc98f021679e4012055518c2c9"
-    },
-    "README.md": {
-      "checksum": "a2f8e26a5f9db5ff698ba651b74d2284"
-    },
-    "src/app.R": {
+    "app.R": {
       "checksum": "3f7f65cd89ee8b3d16a7ff108fa2d8dc"
     }
   },
