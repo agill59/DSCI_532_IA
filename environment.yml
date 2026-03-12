@@ -1,0 +1,14 @@
+name: tech_layoff_lens_r
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base=4.3.1
+  - r-shiny
+  - r-bslib
+  - r-dplyr
+  - r-ggplot2
+  - r-plotly
+  - r-readr
+  - r-languageserver
+  - r-rsconnect
